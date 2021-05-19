@@ -1,0 +1,41 @@
+body {
+	white-space: pre-line;
+	color: aliceblue;
+	background-color: rgb(30, 30, 30);
+	padding: 20px;
+}
+
+.main {
+	background-color: rgba(50,50,50);
+	border: 1px solid white;
+	border-radius: 5px;
+	padding: 20px;
+	display: absolute;
+}
+
+.card {
+	color: aliceblue;
+	display: flex;
+	flex-direction: row;
+	font-size: larger;
+}
+
+span {
+	
+}
+
+img {
+	width: 400px;
+	margin: 20px;
+}
+
+@media only screen and (max-width:600px) {
+	.card {
+		flex-direction: column;
+	}
+
+	img {
+		width: 75%;
+		margin-top:5px;
+	}
+}
