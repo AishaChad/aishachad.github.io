@@ -1,3 +1,3 @@
-<!--li><a href="vol3-left-and-right.html">Volume 3 Bonus Short - The Characters called Left(左) and Right(右)</a></li-->
-<!--li><a href="vol4-maiden-and-unicorn.html">Volume 4 Bonus Short - The Maiden and the Unicorn</a></li-->
+
 <!--li><a href="vol4-sermon.html">Volume 4 Bonus Short - Sermon</a></li-->
+<!--li><a href="vol5-bargain-sale.html">Volume 5 Bonus Short - Bargain Sale</a></li-->
