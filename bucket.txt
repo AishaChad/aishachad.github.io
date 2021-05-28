@@ -1,3 +1,1 @@
-
-<!--li><a href="vol4-sermon.html">Volume 4 Bonus Short - Sermon</a></li-->
 <!--li><a href="vol5-bargain-sale.html">Volume 5 Bonus Short - Bargain Sale</a></li-->
