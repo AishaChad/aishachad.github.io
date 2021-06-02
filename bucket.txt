@@ -1,8 +1,0 @@
-<li><a href="vol5-roxy-ideal.html">Volume 5 Bonus Short - Roxy’s Ideal</a></li>
-<li><a href="vol6-eris-3-minute-cooking.html">Volume 6 Bonus Short - Eris’s Cooking in 3 Minutes</a></li>
-<li><a href="vol7-hollywood-rudeus-soldier.html">Volume 7 Bonus Short - Mushoku Tensei Hollywood Edition - Rudeus, the Ex-Soldier</a></li>
-<li><a href="vol7-saint-class-advisor.html">Volume 7 Bonus Short - Mushoku Tensei Hollywood Edition - The Saint-Class Agricultural Advisor</a></li>
-<li><a href="vol7-kansas-city-elf.html">Volume 7 Bonus Short - Mushoku Tensei Hollywood Edition - The Kansas City Elf</a></li>
-<li><a href="vol7-the-jamaican-hero.html">Volume 7 Bonus Short - Mushoku Tensei Hollywood Edition - The Jamaican Hero
-</a></li>
-<li><a href="vol16-eris-reading.html">Volume 16 Bonus Short - Eris’s Reading</a></li>
